@@ -6,9 +6,9 @@ import Fontisto from '@expo/vector-icons/Fontisto';
 import Ionicons from '@expo/vector-icons/Ionicons';
 import FontAwesome from '@expo/vector-icons/FontAwesome';
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
-import {Amplify} from 'aws-amplify'
+import {Amplify, } from 'aws-amplify'
 import config from './src/aws-exports'
-import { withAuthenticator } from 'aws-amplify-react-native'
+import { withAuthenticator,} from 'aws-amplify-react-native'
 import ProfileScreen from './src/screens/ProfileScreen';
 
 Amplify.configure(config)

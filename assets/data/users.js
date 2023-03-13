@@ -18,7 +18,7 @@ export default [
     name: 'Zuck',
     image:
       'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/zuck.jpeg',
-    bio: 'Just a random stalker',
+    bio: 'Just a random stalker, its my daily job',
   },
   {
     id: '4',

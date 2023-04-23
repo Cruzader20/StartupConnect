@@ -32,9 +32,18 @@ India has seen massive growth in the number of startups in the last six years, w
 
 2. Sign In/Sign Up in Expo Go
 
-3. Paste the following link in the Enter URL Manually section - https://expo.dev/@cruzader12/StartupAwesome?serviceType=classic&distribution=expogo
+3. Paste the following link in the Enter URL Manually section - https://expo.dev/@cruzader12/StartupAwesome?serviceType=classic&distribution=expo-go 
 
-4. Follow the steps mentioned in the presentation(PPT) to use the app.
+4. we can see the registration page: 
+  New user can create an account by providing their email address as the username, creating the password and entering their phone number. The user will get verification email post registration. User has to then verfiy himself/herself.
+  
+5. Users already having account can simply sign in using their registered email id and password
+
+6. New user can enter their details and create their profile.
+
+7. Once logged in, user will be directed to the homepage that displays the user name and brief one-line description.
+
+8. If the startup idea of a user matches with any other user, he/she can use the chat feature and connect to that other user to share his concerns, and then can start working together
 
 
 # ===> CODE STRUCTURE:

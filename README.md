@@ -1,4 +1,4 @@
-# CSE508: Information Retrieval :  StartupConnect
+# CSE508: Information Retrieval:  StartupConnect
 
 
 # ===> PROBLEM STATEMENT
